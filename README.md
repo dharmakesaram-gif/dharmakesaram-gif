@@ -4,7 +4,7 @@
 <!-- 🧠  H E A D E R  ·  N E U R A L  B A N N E R                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a1a2e,40:16213e,60:0f3460,80:6366f1,100:06b6d4&height=220&section=header&text=KESARAM%20DHARMA%20TEJ%20REDDY&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%A7%A0%20AI%2FML%20Engineer%20%E2%80%A2%20%F0%9F%94%AC%20Deep%20Learning%20%E2%80%A2%20%F0%9F%9B%A1%EF%B8%8F%20AI%20Security%20%E2%80%A2%20%F0%9F%8F%86%20SIH%202026%20Finalist&descSize=14&descAlignY=55&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a1a2e,40:16213e,60:0f3460,80:6366f1,100:06b6d4&height=220&section=header&text=KESARAM%20DHARMA%20TEJ%20REDDY&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%A7%A0%20AI%2FML%20Engineer%20%E2%80%A2%20%F0%9F%94%AC%20Deep%20Learning%20%E2%80%A2%20%F0%9F%9B%A1%EF%B8%8F%20AI%20Security&descSize=14&descAlignY=55&descColor=94a3b8" />
 
 <!-- Neural Network Typing Animation -->
 <a href="https://dharmakesaram-gif.github.io">
@@ -50,7 +50,6 @@
 ║   > ROLE .............. AI/ML Engineer & Full Stack Developer               ║
 ║   > SPECIALIZATION .... Deep Learning · NLP · LLM Orchestration            ║
 ║   > DOMAIN ............ AI-Powered Cybersecurity & Voice Forensics          ║
-║   > ACHIEVEMENT ....... Smart India Hackathon (SIH) 2026 Finalist          ║
 ║   > MODELS ............ Ollama · Phi-3 · Gemma · Mistral · Llama-3         ║
 ║   > FRAMEWORKS ........ FastAPI · TensorFlow · PyTorch · Scikit-Learn      ║
 ║   > STATUS ............ 🟢 Open for AI/ML Opportunities                    ║
@@ -67,7 +66,6 @@
 - 🧠 **AI/ML Engineer** building intelligent systems that solve real-world problems
 - 🤖 **LLM Specialist**: Multi-model orchestration with Ollama (Phi-3, Gemma, Qwen, Mistral, Llama-3, DeepSeek)
 - 🛡️ **AI Security**: Applying ML to phishing detection, voice deepfake analysis & forensic intelligence
-- 🏆 **SIH 2026 Finalist**: AI-Powered Email Threat Detection Platform
 - 🔬 **Research Interests**: NLP, voice biometrics, adversarial ML, real-time inference
 - 💬 **Ask me about**: Local LLMs, AI threat detection, model fine-tuning, FastAPI backends
 
@@ -131,9 +129,7 @@
 
 <h3 align="center">🔍 PhishTrace AI Defense</h3>
 <p align="center">
-  <a href="https://github.com/dharmakesaram-gif/phishtrace-ai-defense">
-    <img src="https://img.shields.io/badge/🏆_SIH_2026-FINALIST-EF4444?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/dharmakesaram-gif/phishtrace-ai-defense">  </a>
 </p>
 <p align="center"><strong>AI-Powered Email Threat Detection — ML classifiers for phishing, GeoLocation tracking & forensic intelligence</strong></p>
 <p align="center">
