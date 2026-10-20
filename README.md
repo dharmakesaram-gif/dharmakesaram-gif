@@ -39,25 +39,25 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   ██████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗                       ║
-║   ██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗                      ║
-║   ██║  ██║███████║███████║██████╔╝██╔████╔██║███████║                      ║
-║   ██║  ██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║                      ║
-║   ██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║                      ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝                      ║
-║                                                                            ║
-║   > ROLE .............. AI/ML Engineer & Full Stack Developer               ║
-║   > SPECIALIZATION .... Deep Learning · NLP · LLM Orchestration            ║
-║   > DOMAIN ............ AI-Powered Cybersecurity & Voice Forensics          ║
-║   > MODELS ............ Ollama · Phi-3 · Gemma · Mistral · Llama-3         ║
-║   > FRAMEWORKS ........ FastAPI · TensorFlow · PyTorch · Scikit-Learn      ║
-║   > STATUS ............ 🟢 Open for AI/ML Opportunities                    ║
-║   > LOCATION .......... India                                              ║
-║   > EMAIL ............. dharma.kesaram@gmail.com                            ║
-║   > LINKEDIN .......... linkedin.com/in/dharmatej                          ║
-║   > HQ ................ dharmakesaram-gif.github.io                         ║
-║                                                                            ║
+║                                                                              ║
+║   ██████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗                         ║
+║   ██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗                        ║
+║   ██║  ██║███████║███████║██████╔╝██╔████╔██║███████║                        ║
+║   ██║  ██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║                        ║
+║   ██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║                        ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝                        ║
+║                                                                              ║
+║   > ROLE .............. AI/ML Engineer & Full Stack Developer                ║
+║   > SPECIALIZATION .... Deep Learning · NLP · LLM Orchestration              ║
+║   > DOMAIN ............ AI-Powered Cybersecurity & Voice Forensics           ║
+║   > MODELS ............ Ollama · Phi-3 · Gemma · Mistral · Llama-3           ║
+║   > FRAMEWORKS ........ FastAPI · TensorFlow · PyTorch · Scikit-Learn        ║
+║   > STATUS ............ 🟢 Open for AI/ML Opportunities                      ║
+║   > LOCATION .......... India                                                ║
+║   > EMAIL ............. dharma.kesaram@gmail.com                             ║
+║   > LINKEDIN .......... linkedin.com/in/dharmatej                            ║
+║   > HQ ................ dharmakesaram-gif.github.io                          ║
+║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
